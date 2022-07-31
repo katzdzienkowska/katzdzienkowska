@@ -1,15 +1,17 @@
 
 <h2 align = "center">Hi, I'm Kat 👩🏻‍💻 </h2>
 
-<section style="display: flex; flex-direction: column" align="center" >
+<section style="display: flex; flex-direction: column" align = "center" >
 
-💻 I'm currently a Professional Software Development Course Student at CodeClan
-🛍 My background is in E-commerce
-🪴🐕📚🧶🕵🏻‍♀️🌳🎮 are some of my other interests
+<p>💻 I'm currently a Professional Software Development Course Student at CodeClan</p>
+<p>🛍 My background is in E-commerce</p>
+<p>🪴🐕📚🧶🕵🏻‍♀️🌳🎮 are some of my other interests</p>
 
 </section>
 
+
 ---
+
 
 <section align = "center" >
 
@@ -27,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS logo" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git logo" width="40" height="40"/>
 
-### In progress:
+### Next:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" alt="Java logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ logo" width="40" height="40"/>
@@ -35,12 +37,14 @@
 
 </section>
 
+
 ---
+
 
 <section align = "center" >
 
 ### Connect with me!
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="80" height="50"/>](https://www.linkedin.com/in/kzdzienkowska/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="160" height="70"/>](https://www.linkedin.com/in/kzdzienkowska/)
 
 </section>
