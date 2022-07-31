@@ -2,7 +2,7 @@
 <br/>
 <h2 align = "center">Hi, I'm Kat 👩🏻‍💻 </h2>
 
-<section style="display: flex; flex-direction: column" align = "center" >
+<section style="display: flex; flex-direction: column; justify-content: flex-start; margin-left: 50px" >
 
 <p>💻 I'm currently a Professional Software Development Course Student at CodeClan</p>
 <p>🛍 My background is in E-commerce</p>
@@ -42,6 +42,6 @@
 
 ## Connect with me!
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="200" height="100"/>](https://www.linkedin.com/in/kzdzienkowska/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="230" height="100"/>](https://www.linkedin.com/in/kzdzienkowska/)
 
 </section>
