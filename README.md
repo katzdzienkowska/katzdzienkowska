@@ -4,9 +4,9 @@
 
 <section style="display: flex; flex-direction: column; justify-content: flex-start" >
 
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💻&nbsp;&nbsp;I'm currently a Professional Software Development Course Student at CodeClan</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🛍&nbsp;&nbsp;My background is in E-commerce</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🪴&nbsp;🐕&nbsp;📚&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🌳&nbsp;🎮&nbsp;&nbsp;are some of my other interests</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💻&nbsp;&nbsp;I'm currently a Professional Software Development Course Student at CodeClan</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🛍&nbsp;&nbsp;My background is in E-commerce</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🪴&nbsp;🐕&nbsp;📚&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🌳&nbsp;🎮&nbsp;&nbsp;are some of my other interests</p>
 
 </section>
 
