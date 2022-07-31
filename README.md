@@ -2,11 +2,11 @@
 <br/>
 <h2 align = "center">Hi, I'm Kat 👩🏻‍💻 </h2>
 
-<section style="display: flex; flex-direction: column; justify-content: flex-start; margin-left: 150px" >
+<section style="display: flex; flex-direction: column; justify-content: flex-start" >
 
-<p>💻 I'm currently a Professional Software Development Course Student at CodeClan</p>
-<p>🛍 My background is in E-commerce</p>
-<p>🪴🐕📚🧶🕵🏻‍♀️🌳🎮 are some of my other interests</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;I'm currently a Professional Software Development Course Student at CodeClan</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;🛍&nbsp;&nbsp;My background is in E-commerce</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;🪴&nbsp;🐕&nbsp;📚&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🌳&nbsp;🎮&nbsp;&nbsp;are some of my other interests</p>
 
 </section>
 
