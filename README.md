@@ -1,4 +1,5 @@
 
+<br/>
 <h2 align = "center">Hi, I'm Kat 👩🏻‍💻 </h2>
 
 <section style="display: flex; flex-direction: column" align = "center" >
@@ -9,9 +10,7 @@
 
 </section>
 
-
----
-
+<br/>
 
 <section align = "center" >
 
@@ -31,20 +30,18 @@
 
 ### Next:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" alt="Java logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title="Java" alt="Java logo" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ logo" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring logo" width="40" height="40"/>
 
 </section>
 
-
----
-
+<br/>
 
 <section align = "center" >
 
-### Connect with me!
+## Connect with me!
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="160" height="70"/>](https://www.linkedin.com/in/kzdzienkowska/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn logo" width="200" height="100"/>](https://www.linkedin.com/in/kzdzienkowska/)
 
 </section>
