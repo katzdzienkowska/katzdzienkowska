@@ -3,7 +3,7 @@
 
 <h2 align = "center">Hi, I'm Kat 👋 </h2>
 
-<section style="display: flex; flex-direction: column; justify-content: center" >
+<section style="display: flex; flex-direction: column" align = "center">
 
 <p>I'm currently a Professional Software Development Course Student at CodeClan</p>
 <p>My background is in E-commerce</p>
