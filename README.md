@@ -1,13 +1,13 @@
 
 <br/>
 
-<h2 align = "center">Hi, I'm Kat 👩🏻‍💻 </h2>
+<h2 align = "center">Hi, I'm Kat 👋 </h2>
 
-<section style="display: flex; flex-direction: column; justify-content: flex-start" >
+<section style="display: flex; flex-direction: column; justify-content: center" >
 
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;💻&nbsp;&nbsp;I'm currently a Professional Software Development Course Student at CodeClan</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🛍&nbsp;&nbsp;My background is in E-commerce</p>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🪴&nbsp;🐕&nbsp;📚&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🌳&nbsp;🎮&nbsp;&nbsp;are some of my other interests</p>
+<p>I'm currently a Professional Software Development Course Student at CodeClan</p>
+<p>My background is in E-commerce</p>
+<p>🪴&nbsp;🐕&nbsp;📚&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🌳&nbsp;🎮&nbsp;&nbsp;are some of my other interests</p>
 
 </section>
 
