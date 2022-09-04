@@ -5,7 +5,7 @@
 
 <section style="display: flex; flex-direction: column" align = "center">
 
-<p>I'm currently a Professional Software Development Course Student at CodeClan</p>
+<p>I'm a Junior Software Developer, recently graduated from CodeClan</p>
 <p>My background is in E-commerce</p>
 <p>🐕&nbsp;📚&nbsp;🎮&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🪴&nbsp;&nbsp;are some of my other interests</p>
 
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git logo" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode logo" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" title="IntelliJ" alt="IntelliJ logo" width="40" height="40"/>
+
+### Next:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript logo" width="40" height="40"/>
 
 </section>
 
