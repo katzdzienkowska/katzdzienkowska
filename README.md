@@ -7,7 +7,7 @@
 
 <p>I'm a Junior Software Developer, recent CodeClan graduate</p>
 <p>My background is in E-commerce and Cultural Studies</p>
-<p>🐕&nbsp;📚&nbsp;🎮&nbsp;🧶&nbsp;🕵🏻‍♀️&nbsp;🪴&nbsp;&nbsp;are some of my other interests</p>
+<p>🐕&nbsp;📚&nbsp;🎮&nbsp;🧶&nbsp;🔨&nbsp;🕵🏻‍♀️&nbsp;🪴&nbsp;📓&nbsp;🧁&nbsp;&nbsp;are some of my other interests</p>
 
 </section>
 
